@@ -9,7 +9,7 @@
 
 ## Introduction
 
-<img width="960" height="404" alt="image" src="https://github.com/user-attachments/assets/8ba27b18-119f-4458-ad13-c92fa91bdd0c" />
+<img width="500" height="255" alt="image" src="https://github.com/user-attachments/assets/8ba27b18-119f-4458-ad13-c92fa91bdd0c" />
 
 
 **ComEVO** is the **first component-level benchmark** for evaluating Large Multimodal Models (LMMs) on **ancient Chinese character evolution analysis**.
