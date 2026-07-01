@@ -9,6 +9,9 @@
 
 ## Introduction
 
+<img width="960" height="404" alt="image" src="https://github.com/user-attachments/assets/8ba27b18-119f-4458-ad13-c92fa91bdd0c" />
+
+
 **ComEVO** is the **first component-level benchmark** for evaluating Large Multimodal Models (LMMs) on **ancient Chinese character evolution analysis**.
 
 Chinese characters have evolved continuously for more than three thousand years, forming rich structural and evolutionary patterns. Existing benchmarks mainly evaluate glyph recognition or character-level evolution, while overlooking the **component**, which is the fundamental structural unit shared across numerous characters.
@@ -92,6 +95,9 @@ Representative tasks include:
 | Evaluation Tasks | 12 |
 | Evaluation Questions | 100,000+ |
 
+<img width="480" height="204" alt="image" src="https://github.com/user-attachments/assets/281e88ec-04a9-4f9e-b995-47a29d8565e6" />
+
+
 ---
 
 ## Supported Script Styles
@@ -149,11 +155,11 @@ ComEVO/
 
 ## Baseline Models
 
-We benchmark over **20** Large Multimodal Models, including
+We benchmark over **20** Large Multimodal Models.
 
-### Open-source Models
+<img width="1082" height="410" alt="image" src="https://github.com/user-attachments/assets/592c398a-4560-4292-937b-9076f2945b40" />
 
-### Proprietary Models
+<img width="1034" height="252" alt="image" src="https://github.com/user-attachments/assets/59a1db11-c340-403d-918a-1a52cea13b90" />
 
 
 ## Main Findings
