@@ -119,20 +119,12 @@ After downloading, unzip the dataset as
 ```text
 ComEVO/
 │
-├── glyphs/
-│   ├── oracle/
-│   ├── bronze/
-│   ├── seal/
-│   ├── clerical/
-│   └── regular/
+├── 基础部件/
 │
-├── components/
+├── 文字拆分/
+
 │
-├── annotations/
-│
-├── benchmark/
-│
-└── README.md
+└── split_tasks
 ```
 
 ---
