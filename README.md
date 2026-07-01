@@ -122,7 +122,6 @@ ComEVO/
 ├── 基础部件/
 │
 ├── 文字拆分/
-
 │
 └── split_tasks
 ```
@@ -154,23 +153,8 @@ We benchmark over **20** Large Multimodal Models, including
 
 ### Open-source Models
 
-- Qwen2.5-VL
-- InternVL3
-- GLM-4.1V
-- Llama-4
-- Phi-4
-- MiniCPM-V
-- ...
-
 ### Proprietary Models
 
-- GPT-4o
-- Gemini
-- Claude
-- Grok
-- ...
-
----
 
 ## Main Findings
 
@@ -207,12 +191,3 @@ Please contact the authors for commercial use.
 
 ---
 
-## Contact
-
-For questions or suggestions, please open an Issue or contact the project authors.
-
----
-
-## Acknowledgements
-
-We sincerely thank the paleography experts who carefully annotated component boundaries and evolutionary relationships, making this benchmark possible.
