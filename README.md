@@ -1,4 +1,4 @@
-# ComEVO: A Component-Level Benchmark for Ancient Chinese Character Evolution Analysis
+# 
 
 <div align="center">
 
